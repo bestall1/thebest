@@ -1,7 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://ja.thebest-store.my.id/siap1.xml
-Sitemap: https://ja.thebest-store.my.id/siap2.xml
-Sitemap: https://ja.thebest-store.my.id/siap3.xml
-Sitemap: https://ja.thebest-store.my.id/siap4.xml
-Sitemap: https://ja.thebest-store.my.id/siap5.xml
+Sitemap: https://ja.thebest-store.my.id/jasite1.xml
+Sitemap: https://ja.thebest-store.my.id/jasite2.xml
+Sitemap: https://se.thebest-store.my.id/sesite1.xml
+Sitemap: https://se.thebest-store.my.id/sesite2.xml
